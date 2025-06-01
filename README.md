@@ -1,4 +1,4 @@
-# 🐍 Python for ML — Kesha’s AI World Record Journey 🚀
+# 🐍 Python for ML — Keshaf’s AI World Record Journey 🚀
 
 Welcome to my official Python learning repository!  
 I’m Keshaf (aka Techno-KD), on a mission to become the **youngest AI Engineer in the world** by June 2025. 💪
