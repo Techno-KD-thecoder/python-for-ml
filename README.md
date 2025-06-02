@@ -33,7 +33,7 @@ This repo will track my full Python learning progress, starting from zero to her
 
 ## 📌 Connect With Me
 
-🌍 GitHub: [Techno-KD](https://github.com/Techno-KD)
+🌍 GitHub: [Techno-KD](https://github.com/Techno-KD-thecoder)
 
 ---
 
